@@ -1,0 +1,139 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .form-container {
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 350px;
+    }
+
+    .form-container h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .form-group input {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .form-group button {
+      width: 100%;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .form-group button:hover {
+      background-color: #45a049;
+    }
+
+    /* head start */
+
+    .bosk{
+
+    }
+    .box1{
+       margin: 47px;
+  box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 41px 145px 41px 109px;
+  background-color: lab(77.4% -4.69 -26.12);
+  border-radius: 20px;
+
+    }
+
+    .box2{
+       margin: 47px;
+  box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 41px 145px 41px 109px;
+  background-color: #fcd86d;
+  border-radius: 20px;
+
+    }
+
+
+
+    .box3{
+       margin: 47px;
+  box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 41px 145px 41px 109px;
+  background-color: #8ce99a;
+  border-radius: 20px;
+
+    }
+    
+
+p{
+margin-left: -79px;
+  text-transform: capitalize;
+  font-family: normal;
+  font-size: 25px;
+}
+p1{
+margin-left: -79px;
+  text-transform: capitalize;
+  margin-top: -16px;
+  position: absolute;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+h1{
+
+}
+h2{
+
+}
+
+/* frist section end */
+
+.container{
+   margin-top: 215px;
+  margin-left: -351px;
+  text-align: center;
+  position: absolute;
+}
+
+.form{
+box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 41px 200px 41px 200px;
+  background-color: lab(77.4% -4.69 -26.12);
+  border-radius: 20px;
+  margin-top: 188px;
+  margin-left: 314px;
+}
+
+.for{
+
+}
+
+
+.text{
+
+}
